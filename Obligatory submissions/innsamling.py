@@ -3,6 +3,15 @@
 __author__ = "Leo Quentin Bækholt"
 __email__ = "leo.quentin.thorbjornsen.bakholt@nmbu.no"
 """
+# problem: 
+""" I flere år har en organisasjon samlet inn penger ved hjelp av bøssebærerer.
+Data for innsamlingene er samlet i en liste innsamling_hist. 
+Listen er en nestet liste hvor hvert element er en liste med årstall, innsamlet beløp og antall bøssebærere.
+Del 1:
+Bruk python til å lage en utskrift som for hvert år skriver ut årstall og gjennomsnittlig innsamlet beløp pr. bøssebærer.
+Del 2:
+Hvilket år ble det samlet inn mest penger pr. bøssebærer?
+"""
 
 innsamling_hist = [
     [2015, 86343, 123],
