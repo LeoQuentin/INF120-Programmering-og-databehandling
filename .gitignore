@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DS Store (Obnoxious Finder files)
+*.DS_Store
+
